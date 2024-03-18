@@ -1,4 +1,4 @@
-<img src = "https://img.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg?w=1380&t=st=1696688400~exp=1696689000~hmac=339d8c66857378d0e22955e735504b346106411776d2467f6bae30c94060d009" height = "500" width = "100%"/>
+<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1710782068/nrjfnjlrdotuct5ghekv.png" height = "500" width = "100%" style="border-radius: 20;"/>
 <h1 align="center">Hi 👋, I'm Moh Faizan</h1>
 <h3 align="center">Building the Future with Full Stack & Blockchain Tech.</h3>
 
