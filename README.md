@@ -1,12 +1,12 @@
 <img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1710782068/nrjfnjlrdotuct5ghekv.png" height = "500" width = "100%" style="border-radius: 20;"/>
 <h1 align="center">Hi 👋, I'm Moh Faizan</h1>
-<h3 align="center">Building the Future with Full Stack & Blockchain Tech.</h3>
+<h3 align="center">Building the Future with Full Stack development.</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://blog.testproject.io/wp-content/uploads/2021/02/Alans-picture.jpg" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanusmani06&label=Profile%20views&color=0e75b6&style=flat" alt="faizanusmani06" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **MERN and DSA**
 
