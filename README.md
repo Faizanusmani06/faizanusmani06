@@ -1,5 +1,6 @@
-<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1710782068/nrjfnjlrdotuct5ghekv.png" height = "500" width = "100%" style="border-radius: 20;"/>
-<h1 align="center">Hi 👋, I'm Moh Faizan</h1>
+<img src = "https://res.cloudinary.com/dooi3sikb/image/upload/v1731501515/dizyv1n8fkusgx590tyo.gif" height = "500" width = "100%" style="border-radius: 20;"/>
+
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height = "40" width = "40" style = "margin:1000"/> , I'm Moh Faizan</h1>
 <h3 align="center">Building the Future with Full Stack development.</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://blog.testproject.io/wp-content/uploads/2021/02/Alans-picture.jpg" /> -->
